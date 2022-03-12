@@ -51,6 +51,7 @@ layout: my
 1. [Java](https://github.com/xaoc-303/fibonacci-java)
 1. [Kotlin](https://github.com/xaoc-303/fibonacci-kotlin)
 1. [Lua](https://github.com/xaoc-303/fibonacci-lua)
+1. [NASM](https://github.com/xaoc-303/fibonacci-nasm)
 1. [Perl](https://github.com/xaoc-303/fibonacci-perl)
 1. [PHP](https://github.com/xaoc-303/fibonacci-php)
 1. [Python](https://github.com/xaoc-303/fibonacci-python)
